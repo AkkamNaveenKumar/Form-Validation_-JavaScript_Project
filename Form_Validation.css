@@ -1,0 +1,22 @@
+body{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+label{
+    color:black;
+    font: optional;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+}
+.naveen{
+    margin: 50px;
+    background-color: aqua;
+    padding: 50px;
+    border-radius: 15px;
+}
+.kumar{
+    background-image: url("./240_F_197927767_MISwwnukYrfEH7BoyWazNXLS2p32Plcb.jpg");
+    padding: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
